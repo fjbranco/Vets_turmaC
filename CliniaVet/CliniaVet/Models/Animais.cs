@@ -12,7 +12,7 @@ namespace CliniaVet.Models
     /// </summary>
     public class Animais
     {
-        public Animais()
+        public  Animais()
         {
             ListaConsultas = new HashSet<Consultas>();
         }
